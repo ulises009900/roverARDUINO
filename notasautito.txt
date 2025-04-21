@@ -1,0 +1,30 @@
+12==d6==n3
+13==d7==enb
+14==d5==n4
+5==d1==n1
+4==d2==n2
+0==d3==ena
+
+//////////////////////////////////////////////àuto viejo 
+
+
+5v (para elsenspr de proximidad)
+pin 4 ('' )
+pin5 ('')
+gnd('')
+
+
+__________________________________motores
+
+
+ena = pin 9
+enb = pin 10 
+
+1n = pin 2
+2n = pin 3 
+3n = pin 7
+4n = pin 8 
+
+
+______________________ mac rover 0x24, 0x6F, 0x28, 0x0B, 0xBA, 0xB8
+
